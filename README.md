@@ -1,6 +1,6 @@
 # my-wish-list
 
-## A wish list of projects & ideas that I want to explore and keep track of.
+## A wish list of projects & ideas that I want to explore and keep track of as an independent AI researcher.
 
 ### Alpha trends to be apart of
 1. **Mechanistic Interpretability:** Would be fun to be a neurosurgeon for LLMs.
