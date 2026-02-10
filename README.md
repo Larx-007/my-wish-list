@@ -2,7 +2,12 @@
 
 ## A wish list of projects & ideas that I want to explore and keep track of.
 
-### Ideas
+### Alpha trends to be apart of
+1. **Mechanistic Interpretability:** Would be fun to be a neurosurgeon for LLMs.
+2. **Small model optimization:** Why go big when smaller models can be better at tasks (like reasoning).
+3. **ARC-AGI:** A benchmark yet to be broken. Hints towards Neurosymbolic AI. 
+
+### Ideas 
 1. **mapTree:** A tree-based roadmap/planning app of things that I have learnt or want to learn where I can add anything that I wish for.
 2. **HALO-Bot:** I like gaming. Playing Halo CE was my best childhood memory. Now I make a RL bot that can play it for me.
    - Next steps would to generalize it to play any RPG game.
